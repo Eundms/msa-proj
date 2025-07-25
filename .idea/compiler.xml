@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="batch-service" options="-parameters" />
+      <module name="batch-service.main" options="-parameters" />
+      <module name="batch-service.test" options="-parameters" />
+      <module name="common-lib" options="-parameters" />
+      <module name="common-lib.main" options="-parameters" />
+      <module name="common-lib.test" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server.main" options="-parameters" />
+      <module name="eureka-server.test" options="-parameters" />
+      <module name="external-api-service" options="-parameters" />
+      <module name="external-api-service.main" options="-parameters" />
+      <module name="external-api-service.test" options="-parameters" />
+      <module name="internal-api-service" options="-parameters" />
+      <module name="internal-api-service.main" options="-parameters" />
+      <module name="internal-api-service.test" options="-parameters" />
+    </option>
+  </component>
+</project>
