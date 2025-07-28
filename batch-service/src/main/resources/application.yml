@@ -33,3 +33,12 @@ feign:
       default:
         connect-timeout: 5000
         read-timeout: 5000
+
+# FeignClient URL 추가
+internal:
+  api:
+    url: https://localhost:8080
+
+external:
+  api:
+    url: https://localhost:8080
